@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Alexander Mengesha</h1>
+Hi 👋, I'm Alexander Mengesha</h1>
 <h3 align="center">A dedicated Generative AI Engineer from Ethiopia, specializing in the development and application of AI models to enhance creativity and innovation</h3>
 
 - 🔭 I’m currently working on [Developing RAG Based LLM Applications for Questions and Answers](https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer)
