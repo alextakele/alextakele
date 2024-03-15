@@ -1,11 +1,9 @@
 Hi 👋, I'm Alexander Mengesha</h1>
 <h3 align="center">A dedicated Generative AI Engineer from Ethiopia, specializing in the development and application of AI models to enhance creativity and innovation</h3>
 
-- 🔭 I’m currently working on [Developing RAG Based LLM Applications for Questions and Answers](https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer)
+- I’m currently working on [Developing RAG Based LLM Applications for Questions and Answers](https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer)
 
-- 🤝 I’m looking for help with [Develop Ethereum based DApp](https://github.com/alextakele/Develop_Ethereum-based-DApp)
-
-- 📝 I regularly write articles on [https://medium.com/@alextakele16](https://medium.com/@alextakele16)
+- I regularly write articles on [https://medium.com/@alextakele16](https://medium.com/@alextakele16)
 
 - 💬 Ask me about **Generative AI, GPT-3.5 , LLM, RAG, Chroma DB,FAISS**
 
