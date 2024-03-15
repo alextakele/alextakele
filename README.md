@@ -1,5 +1,5 @@
 Hi 👋, I'm Alexander Mengesha</h1>
-<h3 align="center">A dedicated Junior Generative AI Engineer from Ethiopia</h3>
+<h3 align="left"> ### A dedicated Junior Generative AI Engineer from Ethiopia</h3>
 
 - I’m currently working on [Developing RAG Based LLM Applications for Questions and Answers](https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer)
 
