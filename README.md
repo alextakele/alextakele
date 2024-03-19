@@ -39,8 +39,4 @@ I regularly share my insights and knowledge on Medium. Feel free to explore my a
 - **Other Technologies**: CUDA, SQL, Git, Jupyter, Pandas, NumPy, Matplotlib, SciPy
 - **Specialized Tools**: Pincone, CI/DC
 
-## 📊 GitHub Stats
 
-[![alextakele's GitHub stats](https://github-readme-stats.vercel.app/api?username=alextakele&show_icons=true&theme=radical&count_private=true)](https://github.com/alextakele)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextakele&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
