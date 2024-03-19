@@ -16,10 +16,12 @@ Hi 👋, I'm Alexander Mengesha</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://cuba.eecs.harvard.edu/" target="_blank" rel="noreferrer"><img src="https://cuba.eecs.harvard.edu/images/cuba/cuba-logo.svg" alt="cuba" width="40" height="40"/></a>
+  <a href="https://github.com/google-research/bert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/BERT.png" alt="bert" width="40" height="40"/></a>
+  <a href="https://chroma.run/" target="_blank" rel="noreferrer"><img src="https://chroma.run/favicon.ico" alt="chroma db" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Longformer" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/2780/1*qJRsrwJBnsFXcs4H8-3i_w.jpeg" alt="LLM" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/thumbnails/ragnetwork_medium.png" alt="RAG" width="40" height="40"/></a>
   <!-- Add other icons similarly -->
 </p>
 
