@@ -29,12 +29,12 @@ I regularly share my insights and knowledge on Medium. Feel free to explore my a
 
 - [LinkedIn](https://linkedin.com/in/alextakele)
 - [Medium](https://medium.com/@alextakele16)
-- [YouTube](https://www.youtube.com/c/awtube)
+- [YouTube](https://www.youtube.com/c/SAT-Tech)
 
 ## 🛠️ Languages & Tools
 
-- **Programming Languages**: Python, C, PHP, TypeScript
-- **Machine Learning & AI**: PyTorch, TensorFlow, Scikit-learn, Keras, BERT, GPT Chroma DB, LLM, RAG
+- **Programming Languages**: Python, C, Bash, TypeScript/NodesJS
+- **Machine Learning & AI**: PyTorch, TensorFlow, Scikit-learn, Keras, BERT, GPT, Chroma DB, LLM, RAG
 - **Databases & Tools**: PostgreSQL, MongoDB, MySQL, SQLite, Docker, Kubernetes, AWS, Hadoop, Spark
 - **Other Technologies**: CUDA, SQL, Git, Jupyter, Pandas, NumPy, Matplotlib, SciPy
 - **Specialized Tools**: Pincone, CI/DC
