@@ -14,9 +14,8 @@ I regularly share my insights and knowledge on Medium. Feel free to explore my a
 
 ## 💬 Ask Me About
 
-- Generative AI, GPT-3.5, LLM, RAG
-- Chroma DB
-- FAISS
+- Python, Docker, Generative AI, GPT-3.5, LLM, RAG
+- Chroma DB, FAISS, Pinecone, Fine tune LLM
 
 ## 📫 How to Reach Me
 
