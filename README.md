@@ -41,5 +41,6 @@ I regularly share my insights and knowledge on Medium. Feel free to explore my a
 
 ## 📊 GitHub Stats
 
-[![alextakele's GitHub stats](https://github-readme-stats.vercel.app/api?username=alextakele&show_icons=true&theme=radical)](https://github.com/alextakele)
+[![alextakele's GitHub stats](https://github-readme-stats.vercel.app/api?username=alextakele&show_icons=true&theme=radical&count_private=true)](https://github.com/alextakele)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextakele&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
