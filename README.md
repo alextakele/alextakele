@@ -11,7 +11,7 @@ Hi 👋, I'm Alexander Mengesha</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/alexmengesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alexmengesha" height="30" width="40" /></a>
+profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alexmengesha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alextakele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alextakele" height="30" width="40" /></a>
 <a href="https://medium.com/@alextakele16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alextakele16" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aw tube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
