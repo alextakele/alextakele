@@ -25,7 +25,7 @@ I regularly share my insights and knowledge on Medium. Feel free to explore my a
 
 - [LinkedIn](https://linkedin.com/in/alextakele)
 - [Medium](https://medium.com/@alextakele16)
-- [YouTube](https://www.youtube.com/c/SAT-Tech)
+- [YouTube](https://www.youtube.com/@alex-Tech)
 
 ## 🛠️ Languages & Tools
 
