@@ -1,38 +1,97 @@
-# Hi , I'm Alexander Mengesha
+# Hi, I'm Alexander Takele Mengesha
 
-##  About Me
+## About Me
 
-I'm a Junior Generative AI Engineer from Ethiopia, passionate about leveraging AI to solve complex problems. My expertise lies in developing RAG-based LLM applications for Q&A systems, fine-tuning LLMs, and exploring the potential of Generative AI.
+I'm an AI Engineer and Data Scientist from Ethiopia with over 5 years of experience building end-to-end AI and machine learning solutions. I specialize in Generative AI, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), machine learning, and AI-powered automation. I'm passionate about developing intelligent systems that solve real-world problems in healthcare, finance, and education.
 
-##  Current Projects
+## Current Projects
 
-- **RAG-based LLM Applications for Q&A**: I'm currently working on enhancing question-answering systems using RAG pipelines and LLMs. Check out my project [here](https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer).
+- **RAG-based LLM Applications** – Developing advanced question-answering systems using RAG pipelines, vector databases, and open-source LLMs.
+  - Repository: https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer
 
-##  Articles
+- **Credit Risk Scoring**
+  - Building machine learning models for financial institutions using feature engineering, explainable AI, and probability of default modeling.
 
-I regularly share my insights and knowledge on Medium. Feel free to explore my articles [here](https://medium.com/@alextakele16).
+- **AI Automation**
+  - Developing AI-powered workflows using LLMs, APIs, and workflow automation tools.
 
-##  Ask Me About
+## Publications & Articles
 
-- Python, Docker, Generative AI, GPT-3.5, LLM, RAG
-- Chroma DB, FAISS, Pinecone, Fine tune LLM
+I regularly write about Artificial Intelligence, Machine Learning, Data Science, and Software Engineering on Medium.
 
-##  How to Reach Me
+📖 https://medium.com/@alextakele16
 
-- Email: alextakele16@gmail.com
+## Ask Me About
 
-##  Connect with Me
+- Python
+- Machine Learning & Deep Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+- Fine-tuning LLMs
+- LangChain & Hugging Face
+- Vector Databases (FAISS, ChromaDB)
+- FastAPI & REST APIs
+- Docker & MLOps
 
-- [LinkedIn](https://linkedin.com/in/alextakele)
-- [Medium](https://medium.com/@alextakele16)
-- [YouTube](https://www.youtube.com/@alex-Tech)
+## Contact
 
-##  Languages & Tools
+📧 Email: alextakele16@gmail.com
 
-- **Programming Languages**: Python, C, Bash, TypeScript/NodesJS
-- **Machine Learning & AI**: PyTorch, TensorFlow, Scikit-learn, Keras, BERT, GPT, Chroma DB, LLM, RAG
-- **Databases & Tools**: PostgreSQL, MongoDB, MySQL, SQLite, Docker, Kubernetes, AWS, Hadoop, Spark
-- **Other Technologies**: CUDA, SQL, Git, Jupyter, Pandas, NumPy, Matplotlib, SciPy
-- **Specialized Tools**: Pincone, CI/DC
+## Connect with Me
 
+- LinkedIn: https://linkedin.com/in/alextakele
+- Medium: https://medium.com/@alextakele16
+- YouTube: https://www.youtube.com/@alex-Tech
 
+## Languages & Tools
+
+### Programming
+- Python
+- JavaScript
+- TypeScript
+- SQL
+- Bash
+
+### AI & Machine Learning
+- Scikit-learn
+- PyTorch
+- TensorFlow
+- Hugging Face Transformers
+- LangChain
+- LlamaIndex
+- OpenAI API
+- Explainable AI (SHAP)
+
+### Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Agents
+- Fine-tuning
+
+### Data Engineering
+- Pandas
+- NumPy
+- PostgreSQL
+- MySQL
+- MongoDB
+- Spark
+- Hadoop
+
+### DevOps & Cloud
+- Docker
+- Git
+- GitHub Actions
+- AWS
+
+### Vector Databases
+- FAISS
+- ChromaDB
+- Pinecone
+
+### Development Tools
+- Jupyter Notebook
+- VS Code
+- Linux
