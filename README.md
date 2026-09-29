@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an AI Engineer and Data Scientist from Ethiopia with over 5 years of experience building end-to-end AI and machine learning solutions. I specialize in Generative AI, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), machine learning, and AI-powered automation. I'm passionate about developing intelligent systems that solve real-world problems in healthcare, finance, and education.
+I'm a Data Scientist from Ethiopia with over 5 years of experience building end-to-end AI and machine learning solutions. I specialize in Generative AI, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), machine learning, and AI-powered automation. I'm passionate about developing intelligent systems that solve real-world problems in healthcare, finance, and education.
 
 ## Current Projects
 
